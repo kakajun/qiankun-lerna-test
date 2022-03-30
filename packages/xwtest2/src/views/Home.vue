@@ -4,7 +4,7 @@
     <HelloWorld msg="Vue.js Demo"/>
 
     <el-button @click="dialogVisible = true" type="text">Open Dialog</el-button>
-
+<xwtet1></xwtet1>
     <el-dialog
       :before-close="handleClose"
       :visible.sync="dialogVisible"
@@ -23,10 +23,11 @@
 <script>
   // @ is an alias to /src
   import HelloWorld from '@/components/HelloWorld.vue';
-
+import xwtet1 from 'xwtet1';
   export default {
     name: 'home',
     components: {
+      xwtet1,
       HelloWorld,
     },
     data() {
