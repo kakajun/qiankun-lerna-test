@@ -1,10 +1,10 @@
 import { registerMicroApps, start } from 'qiankun';
 registerMicroApps([
   {
-    name: 'vue',
+    name: 'xwtet1',
     entry: '//localhost:7301',
     container: '#cnbi-viewport',
-    activeRule: '/vue'
+    activeRule: '/xwtet1'
   },
    {
     name: 'xwtest2',
