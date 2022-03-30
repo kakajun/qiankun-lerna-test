@@ -3,7 +3,7 @@
 
      <div> 我是vue1工程</div>
     <el-button @click="dialogVisible = true" type="text">Open Dialog</el-button>
-
+     <about></about>
   </div>
 
 </template>
@@ -11,10 +11,11 @@
 <script>
   // @ is an alias to /src
   import HelloWorld from '@/components/HelloWorld.vue';
-
+import about from 'xwtest2';
   export default {
     name: 'home',
     components: {
+      about,
       HelloWorld,
     },
     data() {
