@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.5](https://github.com/kakajun/qiankun-lerna-test/compare/v0.1.4...v0.1.5) (2022-03-30)
+
+
+### Bug Fixes
+
+* 1 ([213e7ec](https://github.com/kakajun/qiankun-lerna-test/commit/213e7ecd71fe8561ea539e14de6f08ef8a32a668))
+
+
+
+
+
 ## [0.1.4](https://github.com/kakajun/qiankun-lerna-test/compare/v0.1.3...v0.1.4) (2022-03-30)
 
 **Note:** Version bump only for package qiankun-vite-test

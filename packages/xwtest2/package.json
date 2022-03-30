@@ -1,6 +1,6 @@
 {
   "name": "xwtest2",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "main": "./src/common.js",
   "scripts": {
     "start": "vue-cli-service serve",
@@ -13,8 +13,8 @@
     "element-ui": "^2.15.6",
     "vue": "^2.6.14",
     "vue-router": "^3.5.2",
-    "xwtet1":"0.1.4",
-    "vuex": "^3.6.2"
+    "vuex": "^3.6.2",
+    "xwtet1": "^0.1.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.13",
