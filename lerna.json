@@ -1,6 +1,8 @@
 {
-    "packages": ["packages/*"],
-    "command": {
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
     "bootstrap": {
       "hoist": true
     },
@@ -11,5 +13,5 @@
   "ignoreChanges": [
     "**/*.md"
   ],
-    "version": "0.0.0"
+  "version": "0.1.1"
 }

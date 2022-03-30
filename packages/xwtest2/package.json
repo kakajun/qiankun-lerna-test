@@ -1,6 +1,6 @@
 {
   "name": "xwtest2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./src/common.js",
   "scripts": {
     "start": "vue-cli-service serve",
