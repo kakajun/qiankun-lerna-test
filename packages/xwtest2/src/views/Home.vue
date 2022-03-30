@@ -1,10 +1,10 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png"/>
+    <!-- <img alt="Vue logo" src="../assets/logo.png"/> -->
     <HelloWorld msg="Vue.js Demo"/>
 
     <el-button @click="dialogVisible = true" type="text">Open Dialog</el-button>
-<xwtet1></xwtet1>
+<about1></about1>
     <el-dialog
       :before-close="handleClose"
       :visible.sync="dialogVisible"
@@ -21,13 +21,13 @@
 </template>
 
 <script>
-  // @ is an alias to /src
   import HelloWorld from '@/components/HelloWorld.vue';
-import {xwtet1} from 'xwtet1';
+import {about1} from 'xwtet1';
+console.log(about1,"gggg");
   export default {
     name: 'home',
     components: {
-      xwtet1,
+      about1,
       HelloWorld,
     },
     data() {

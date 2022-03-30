@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>假如我是2工程的公共组件</h1>
+    <h1>假如我是2工程的公共组件++++</h1>
 
   </div>
 </template>
@@ -9,6 +9,7 @@
     name:'About'
   }
 </script>
+
 <style scoped>
 .about {
   color: #7265e6;
