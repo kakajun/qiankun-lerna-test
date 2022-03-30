@@ -11,7 +11,8 @@
 <script>
   // @ is an alias to /src
   import HelloWorld from '@/components/HelloWorld.vue';
-import about from 'xwtest2';
+import {about} from 'xwtest2';
+
   export default {
     name: 'home',
     components: {

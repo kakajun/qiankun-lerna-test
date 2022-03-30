@@ -23,7 +23,7 @@
 <script>
   // @ is an alias to /src
   import HelloWorld from '@/components/HelloWorld.vue';
-import xwtet1 from 'xwtet1';
+import {xwtet1} from 'xwtet1';
   export default {
     name: 'home',
     components: {
