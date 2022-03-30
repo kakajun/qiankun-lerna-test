@@ -6,7 +6,7 @@
       |
       <router-link to="/about">About</router-link>
        |
-      <router-link to="/about1">About1</router-link>
+      <!-- <router-link to="/about1">About1</router-link> -->
     </div>
     <router-view />
   </div>
