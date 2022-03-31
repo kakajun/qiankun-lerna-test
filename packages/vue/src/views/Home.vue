@@ -1,3 +1,4 @@
+<!-- 1子服务主体 -->
 <template>
   <div class="home">
 
@@ -9,15 +10,12 @@
 </template>
 
 <script>
-  // @ is an alias to /src
-  import HelloWorld from '@/components/HelloWorld.vue';
 import {about} from 'xwtest2';
 
   export default {
     name: 'home',
     components: {
       about,
-      HelloWorld,
     },
     data() {
       return {

@@ -1,3 +1,4 @@
+<!-- 基座主页 -->
 <template>
   <div class="home">
     <HelloWorld msg="Vue.js Demo"/>
