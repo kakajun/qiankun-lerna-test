@@ -6,8 +6,11 @@
     "bootstrap": {
       "hoist": true
     },
-      "publish": {
-      "ignoreChanges": ["ignored-file", "*.md"],
+    "publish": {
+      "ignoreChanges": [
+        "ignored-file",
+        "*.md"
+      ],
       "message": "chore(release): publish"
     },
     "version": {
@@ -17,5 +20,5 @@
   "ignoreChanges": [
     "**/*.md"
   ],
-  "version": "0.1.7"
+  "version": "0.1.10"
 }

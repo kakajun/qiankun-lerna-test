@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.10](https://github.com/kakajun/qiankun-lerna-test/compare/v0.1.7...v0.1.10) (2022-03-31)
+
+**Note:** Version bump only for package vue2-main
+
+
+
+
+
 ## [0.1.7](https://github.com/kakajun/qiankun-lerna-test/compare/v0.1.6...v0.1.7) (2022-03-30)
 
 **Note:** Version bump only for package vue2-main
