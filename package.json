@@ -1,7 +1,7 @@
 {
-  "name": "qiankun-vite-test",
+  "name": "qiankun-lerna-test",
   "version": "0.0.2",
-  "description": "qiankun demo",
+  "description": "qiankun lerna demo",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -25,10 +25,9 @@
     "eslint-plugin-vue": "^7.0.0-0"
   },
   "keywords": [
-    "vite2",
-    "larna",
+    "lerna",
     "qiankun",
-    "qiankun-example",
+    "vue",
     "demo"
   ],
   "author": "mj",
