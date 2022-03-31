@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>假如我是2工程的公共组件++++</h1>
+    <h1>假如我是3工程的公共组件++++</h1>
 
   </div>
 </template>
