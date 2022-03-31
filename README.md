@@ -3,7 +3,7 @@
 lerna作用介绍:   https://www.lernajs.cn/
 
 ### 工程介绍
-
+```
 ├── packages
 │ ├── vue                         <!-- 微服务1 -->
 │ │ └── src
@@ -40,7 +40,7 @@ lerna作用介绍:   https://www.lernajs.cn/
 │ │ │ ├── main.js
 │ │ │ └── public-path.js
 └── scripts
-
+```
 
 ### 主要技术栈
 1. 采用乾坤构建微服务
