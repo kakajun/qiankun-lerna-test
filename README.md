@@ -54,7 +54,7 @@ lerna作用介绍:   https://www.lernajs.cn/
 
 ### 思考(答案都在demo里面)
 1. 包名与引用不同名, lerna link 能成功么?
-
+2. 只发布其中一个包?
 ### lerna重要命令:
 
 lerna  clean                   清理掉所有依赖
