@@ -7,10 +7,10 @@ registerMicroApps([
     activeRule: '/xwtet1'
   },
    {
-    name: 'xwtest2',
+    name: 'xwtestone',
     entry: '//localhost:7302',
     container: '#cnbi-viewport',
-    activeRule: '/xwtest2'
+    activeRule: '/xwtestone'
   }
 ])
 

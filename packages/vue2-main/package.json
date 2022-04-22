@@ -14,7 +14,7 @@
     "vue": "^2.6.14",
     "vue-router": "^3.5.2",
     "vuex": "^3.6.2",
-    "xwtest2": "^0.1.10"
+    "xwtestone": "^0.1.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.13",

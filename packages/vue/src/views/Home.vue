@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import {about} from 'xwtest2';
+import {about} from 'xwtestone';
 
   export default {
     name: 'home',
