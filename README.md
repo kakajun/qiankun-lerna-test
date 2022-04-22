@@ -1,4 +1,5 @@
 ### lerna组织微服务
+一个最接近真实工程组织的方式
 
 lerna作用介绍:   https://www.lernajs.cn/
 
@@ -51,6 +52,8 @@ lerna作用介绍:   https://www.lernajs.cn/
 2. packge的组织多包方式, 可以很快清除所有依赖并,并快速进行安装, 速度快的不只一点
 3. lerna自动软链接所有包, 可以省去npm link  的麻烦, 愉快的自由测试或打debug
 
+### 思考(答案都在demo里面)
+1. 包名与引用不同名, lerna link 能成功么?
 
 ### lerna重要命令:
 
