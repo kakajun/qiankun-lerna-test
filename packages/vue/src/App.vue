@@ -14,7 +14,7 @@
 <script>
 export default {
   mounted() {
-console.log("7777");
+console.log("999");
   },
 }
 </script>
