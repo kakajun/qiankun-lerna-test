@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.11](https://github.com/kakajun/qiankun-lerna-test/compare/v0.1.10...v0.1.11) (2022-04-27)
+
+
+### Bug Fixes
+
+* 干掉一些不要文件 ([9873934](https://github.com/kakajun/qiankun-lerna-test/commit/9873934b185d697ce364c6c98a21527d87af7737))
+* rename ([894ecde](https://github.com/kakajun/qiankun-lerna-test/commit/894ecdeefa5ce624e4dfa7e008f8454f8ee74cbf))
+
+
+
+
+
+
 ## [0.1.10](https://github.com/kakajun/qiankun-lerna-test/compare/v0.1.7...v0.1.10) (2022-03-31)
 
 
